@@ -12,5 +12,5 @@ variable "AMI" {
 }
 
 variable "PUBLIC_KEY_PATH" {
-    default = ""C:\Users\rajender\OneDrive\Documents\vscode\publickey.txt""
+    default = "C:\Users\rajender\OneDrive\Documents\vscode\publickey.txt"
 }
